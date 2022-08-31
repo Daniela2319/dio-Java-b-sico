@@ -1,9 +1,6 @@
-## Declarando Variável e Métodos
-Declarando uma variável em Java:
+## Getting Started
 
-> int idade = 23;
-> 
-> double altura = 1.62;
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 Declarando Métodos em Java:
 
